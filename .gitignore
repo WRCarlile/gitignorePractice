@@ -13,7 +13,7 @@ dbv/data/meta/revision
 .htpasswd
 sitemap.xml
 sitemap.xml.gz
-
+wp-config.php
 wp-content/advanced-cache.php
 wp-content/backups/
 wp-content/aiowps_backups/
